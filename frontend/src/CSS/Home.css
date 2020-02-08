@@ -1,0 +1,44 @@
+.leftCard{ 
+    float:left;
+    height:250px;
+    margin-top:150px;
+    margin-bottom:20px;
+    margin-left:100px;
+  }
+  .rightCard{
+    float:right;
+    height:350px;
+    margin-top:150px;
+    margin-bottom:20px;
+    margin-right:100px;
+  }
+  .cardTitle{
+    font-size: 35px;
+  }
+  .cardText{
+    font-size:15px;
+  }
+  .div1{
+    background-color: #e6eeff;
+  }
+  .features{
+    margin-top:100px;
+    margin-bottom:20;
+    margin-left:60px;
+  }
+  .featuresTitle{
+    font-size:20px;
+  }
+  #para{
+    float:left;
+    font-size:15px;
+    margin-right:20px;
+  }
+  #footerLink{
+    float:right;
+  }
+  .ancher{
+    margin-right:25px;
+    font-size:15px;
+    color:black;
+  }

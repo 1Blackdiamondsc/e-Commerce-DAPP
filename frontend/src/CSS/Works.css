@@ -1,0 +1,31 @@
+.mainheader{
+    font-size:50px;
+}
+.lowerheader{
+    font-size:30px;
+    margin-left:16%;
+    color:red;
+}
+.lowerheader1{
+    font-size:30px;
+    margin-right:16%;
+    color:red;
+}
+.headimg{
+    text-align:left;
+}
+.headimg1{
+    text-align:right;
+}
+
+.divbutton{
+    align:center;
+
+}
+.anscard{
+    width:400px;
+    color:red;
+    margin-top:40px;
+    margin-left:-100%;
+    font-size:20px;
+}

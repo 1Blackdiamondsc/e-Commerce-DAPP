@@ -1,0 +1,66 @@
+.root1 {
+    justify-content: space-around;
+    overflow: 'hidden';
+    background-color: #e6eeff;
+  }
+.header1 {
+    font-size: 30px;
+    text-align: center;
+    animation-name: headAnimation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.button1 {
+    width: 100px;
+    height: 40px;
+    font-size: 50px;
+    margin-left: 2%;
+}
+.button3 {
+    width: 150px;
+    height: 40px;
+    font-size: 50px;
+    margin-left: 2%;
+}
+.row1 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px
+}
+.card1 {
+    width: 400px;
+    height: 500px;
+}
+.listHeader1 {
+    font-size:20px;
+}
+.listText1 {
+    font-size: 20px;
+}
+.popover1 {
+    width: 400px;
+    height: 250px;
+}
+.popoverHead1 {
+    text-align: center;
+    color: red;
+}
+.link {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+/*header animation  */
+
+@keyframes headAnimation {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }

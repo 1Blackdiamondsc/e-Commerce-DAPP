@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="922px" height="575px" viewBox="0 0 922 575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="8.8793313%" x2="66.4577249%" y2="94.9456243%" id="linearGradient-1">
+            <stop stop-color="#A39AF1" offset="0%"></stop>
+            <stop stop-color="#2B95D8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M150.919854,45.508025 C358.867188,-49.2265625 684.856991,28.9682121 793,77.6135238 C973.53125,158.820798 952.15625,418.660156 805.417969,461.3125 C658.679688,503.964844 648.519531,427.320312 453,537.6875 C328.096147,608.193433 165.92607,580.763002 40.7484067,428.425602 C-48.8984375,319.328125 19.1755339,105.526798 150.919854,45.508025 Z" id="path-2"></path>
+        <rect id="path-4" x="336" y="149" width="726" height="550" rx="9"></rect>
+        <filter x="-5.5%" y="-6.4%" width="111.0%" height="114.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16723279 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="80.2191032%" y1="129.072491%" x2="59.8297989%" y2="62.6752317%" id="linearGradient-6">
+            <stop stop-color="#012F47" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M159.34375,39.1529675 C476.229167,-15.6293807 687.447917,-2.80919524 793,77.6135238 C951.328125,198.247602 952.15625,418.660156 805.417969,461.3125 C658.679688,503.964844 648.519531,427.320312 453,537.6875 C322.653646,611.265625 178.679688,568.395833 21.078125,409.078125 L159.34375,39.1529675 Z" id="path-7"></path>
+    </defs>
+    <g id="Main-1920" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-4.000000, -673.000000)" id="Rectangle-4">
+            <g transform="translate(4.000000, 673.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g mask="url(#mask-3)">
+                    <rect id="path-4" x="336" y="149" width="726" height="550" rx="9" fill="black" fill-opacity="1" filter="url(#filter-5)"></rect>
+                    <rect id="path-4" x="336" y="149" width="726" height="550" rx="9" fill="#FFFFFF" fill-rule="evenodd"></rect>
+                </g>
+                <rect id="Rectangle-6" fill="#F6F8FD" mask="url(#mask-3)" x="370" y="257" width="154" height="65" rx="5"></rect>
+                <path d="M345,149 L1053,149 C1057.97056,149 1062,153.029437 1062,158 L1062,183 L336,183 L336,158 C336,153.029437 340.029437,149 345,149 Z" fill="#F0F3F9" mask="url(#mask-3)"></path>
+                <circle id="Oval-4" fill="#C5CAD5" opacity="0.75" mask="url(#mask-3)" cx="356.5" cy="166.5" r="5.5"></circle>
+                <circle id="Oval-4" fill="#C5CAD5" opacity="0.75" mask="url(#mask-3)" cx="379.5" cy="166.5" r="5.5"></circle>
+                <circle id="Oval-4" fill="#C5CAD5" opacity="0.75" mask="url(#mask-3)" cx="402.5" cy="166.5" r="5.5"></circle>
+                <text id="Dashboard" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="24" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="369" y="237">Dashboard</tspan>
+                </text>
+                <text id="You-last-sales" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="369" y="370">You last sales</tspan>
+                </text>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="390" width="355" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="415" width="355" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="440" width="355" height="11" rx="5.5"></rect>
+                <text id="You-last-purchases" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="369" y="499">You last purchases</tspan>
+                </text>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="519" width="355" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="544" width="355" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-5" fill="#F0F3F9" mask="url(#mask-3)" x="371" y="569" width="355" height="11" rx="5.5"></rect>
+                <text id="569,45" mask="url(#mask-3)" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="415" y="285">569,45</tspan>
+                </text>
+                <text id="Your-balance" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="12" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="407" y="303">Your balance</tspan>
+                </text>
+                <rect id="Rectangle-6" fill="#F6F8FD" mask="url(#mask-3)" x="554" y="257" width="154" height="65" rx="5"></rect>
+                <text id="79" mask="url(#mask-3)" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="615" y="285">79</tspan>
+                </text>
+                <text id="Total-buyers" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="12" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="591" y="303">Total buyers</tspan>
+                </text>
+                <rect id="Rectangle-6" fill="#F6F8FD" mask="url(#mask-3)" x="738" y="257" width="154" height="65" rx="5"></rect>
+                <text id="37" mask="url(#mask-3)" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="801" y="285">37</tspan>
+                </text>
+                <text id="Total-purchases" mask="url(#mask-3)" font-family="Montserrat-Medium, Montserrat" font-size="12" font-weight="400" line-spacing="23" fill="#AEB9BF">
+                    <tspan x="764" y="303">Total purchases</tspan>
+                </text>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+            </g>
+        </g>
+    </g>
+</svg>
