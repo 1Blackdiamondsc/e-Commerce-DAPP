@@ -1,9 +1,7 @@
-# Decentralized E-Commerce using ETHEReact!
-
-![alt text](https://github.com/PruthviKumarBK/Decentralized_eCom/blob/master/ETHEReact.png)
+# Decentralized E-Commerce with Ethereum Platform!
 
 # Description
-ETHEReact is a full stack DApp; demonstrating e-commerce capabilities without any database powering the backend but the EVM standing tall! This is not a product in iteself but the idea for aspiring blockchain enthusiasts to uncover the potential; end-to-end!
+ This is a full stack DApp; demonstrating e-commerce capabilities without any database powering the backend but the EVM standing tall! Frontend is designed using ReactJS. This is not a product in iteself but has basic structure to build running product on top of it ;
 
 - This app is comprised of Truffle powered `testrpc` (which is also called `ganache`) facilitating local development.
 - Web3 bridges Ethereum to ReactJS!
@@ -12,7 +10,7 @@ ETHEReact is a full stack DApp; demonstrating e-commerce capabilities without an
 - Install latest version of [NodeJS](https://nodejs.org/en/)
 - Install `truffle` globally using `npm install -g truffle` 
 - Install Ethereum RPC globally using `npm install -g ethereumjs-testrpc` 
-- Clone this Repo using `git clone https://github.com/PruthviKumarBK/Decentralized_eCom.git` 
+- Clone this Repo using `git clone https://github.com/junaidalibeswa/e-Commerce-DAPP.git` 
 - `cd Decentralized_eCom` 
 - Open a terminal/cmd and navigate to current working directory and cd into 'backend'. `cd backend`, instantiate testrpc server using `testrpc -l 9000000000 -p 8484`. ('-l' indicates available gas limit for the network. In test networks, this is at developer's discretion. '-p' indicate the port). You should now have Ethereum running on your local development machine. Leave that running!
 *  Open another terminal/cmd and navigate to current working directory and again, cd into 'backend'. `cd backend`. You will now need to compile solidity contracts, migrate them to your Ethereum Server before front end is started.
@@ -36,13 +34,12 @@ ETHEReact is a full stack DApp; demonstrating e-commerce capabilities without an
 
 THATS IT! Welcome to e-commerce on a decentralized platform! The UI is pretty bare bone. But, nonetheless, it demonstrates a full swing of capabilities from Supplier adding a product to market place -> Customer making a purchase -> Supplier Shipping the order -> Customer acknowledging the delivery! All of this on a BLOCKCHAIN! Pretty exciting! 
 
-I would love to learn what you build from here with the foundation in place. Please keep me posted @ pruthvikumar.123@gmail.com. I would be happy to support/guide wherever required.
 # CREDITS
-[Pruthvi Kumar - @PruthviKumarBK](http://www.apricity.co.in)
+[Junaid ALi - @junaidalibeswa]
 # LICENCE
 MIT License
 
-Copyright (c) 2018 Pruthvi Kumar
+Copyright (c) 2019 Junaid Ali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
