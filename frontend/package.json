@@ -13,7 +13,7 @@
     "react-dom": "^16.5.2",
     "react-redux": "^6.0.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "1.1.5",
+    "react-scripts": "5.0.1",
     "react-sticky-footer": "0.1.0-rc3",
     "reactstrap": "^7.1.0",
     "recompose": "^0.30.0",
